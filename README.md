@@ -1,4 +1,21 @@
-# David NKURU
+# 😎 David NKURU
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+   <div id="badges">
+     <a href="https://www.linkedin.com/in/david-nkuru-089604266/">
+       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+     </a>
+   </div>
+   <img src="https://komarev.com/ghpvc/?username=nkurudavid&style=flat-square&color=blue" alt=""/>
+   
+   <h1>
+      Hey there
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   </h1>
+
+</div>
 
 <p>I am a web developer and content creator building my version of digital world one step at time. All coding project are built from ground up, from planning and designing, all the way to solve the real-life problems with code.</p>
 
@@ -12,7 +29,22 @@
 <hr />
 
 
-🔭 Stats
+
+### 🖱️ Languages and Tools
+
+
+<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,django,python,fastapi,vscode,mysql,sqlite,postgres,github,git,figma&theme=dark)](https://skillicons.dev)
+-->
+<p align="center">
+    <img style="padding-right:10px;" src="https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,django,python,fastapi,vscode,mysql,sqlite,postgres,github,git,figma&theme=dark" />
+</p>
+
+
+<hr />
+
+
+### 🔥My Stats
 
 ![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=10)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=10)](https://git.io/streak-stats)
@@ -20,16 +52,5 @@
 
 <hr />
 
-
-
-### 🧰 Languages and Tools
-
-<p align="left">
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
- </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&langs_count=20&theme=cobalt2&border_radius=10)](https://github.com/nkurudavid/github-readme-stats)
 
