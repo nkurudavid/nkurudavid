@@ -14,9 +14,9 @@
 
 🔭 Stats
 
-![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=dark)
+![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=10)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=10)](https://git.io/streak-stats)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=gruvbox&border_radius=4.5) -->
 
 <hr />
 
