@@ -50,7 +50,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=10)](https://git.io/streak-stats)
 
 
+<!--
 <hr />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&langs_count=20&theme=cobalt2&border_radius=10)](https://github.com/nkurudavid/github-readme-stats)
-
+-->
