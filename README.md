@@ -33,9 +33,6 @@
 ### 🖱️ Languages and Tools
 
 
-<!--
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,django,python,fastapi,vscode,mysql,sqlite,postgres,github,git,figma&theme=dark)](https://skillicons.dev)
--->
 <p align="center">
     <img style="padding-right:10px;" src="https://skillicons.dev/icons?i=html,css,javascript,vuejs,php,django,python,fastapi,vscode,mysql,sqlite,postgres,github,git,figma&theme=dark" />
 </p>
