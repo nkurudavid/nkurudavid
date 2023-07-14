@@ -17,7 +17,7 @@
 
 </div>
 
-<p>I am a web developer and content creator building my version of digital world one step at time. All coding project are built from ground up, from planning and designing, all the way to solve the real-life problems with code.</p>
+<p>I am a web developer, building my version of digital world one step at time. All coding project are built from ground up, from planning and designing, all the way to solve the real-life problems with code.</p>
 
    <p align="left">
       <a href="https://github.com/nkurudavid?tab=followers">
