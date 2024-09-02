@@ -34,7 +34,7 @@
 
 
 <p align="center">
-    <img style="padding-right:20px;" src="https://skillicons.dev/icons?i=html,css,javascript,vuejs,react,django,python,fastapi,php,mysql,sqlite,postgres,&theme=light" />
+    <img style="padding-right:20px;" src="https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript,vuejs,react,django,python,postman,mysql,sqlite,postgres,&theme=dark" />
 </p>
 
 
