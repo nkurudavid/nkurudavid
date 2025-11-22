@@ -14,7 +14,6 @@
       Hey there
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
    </h1>
-
 </div>
 
 <p>I am a web developer, building my version of digital world one step at time. All coding project are built from ground up, from planning and designing, all the way to solve the real-life problems with code.</p>
@@ -40,15 +39,19 @@
 
 <hr />
 
-🔧 Tech Stack: <br>
+ ### 🔥My Stats
+
+![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=25)
+![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=25)
+
+<hr />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&layout=compact&langs_count=20&theme=cobalt2&border_radius=25)
+<!-- [](https://github.com/nkurudavid/github-readme-stats) -->
+
+### 🔧 Tech Stack: <br>
 - Frontend: React.js, Vue.js
 - Backend: Django
 - Database: MySQL, PostgreSQL
 
-
- ### 🔥My Stats
-
-![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=5)
-![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&langs_count=20&theme=cobalt2&border_radius=5)](https://github.com/nkurudavid/github-readme-stats)
 
