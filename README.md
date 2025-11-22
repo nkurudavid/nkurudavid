@@ -1,8 +1,7 @@
-# 😎 David NKURU
+# 😎 David NKURU 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250"/>
    <div id="badges">
      <a href="https://www.linkedin.com/in/david-nkuru-089604266/">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,14 +39,15 @@
 <hr />
 
  ### 🔥My Stats
-
-![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=25)
+<div align="center">
+  
+<!--![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=25) -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=25)
-
-<hr />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&layout=compact&langs_count=20&theme=cobalt2&border_radius=25)
 <!-- [](https://github.com/nkurudavid/github-readme-stats) -->
+
+</div>
+<hr />
 
 ### 🔧 Tech Stack: <br>
 - Frontend: React.js, Vue.js
