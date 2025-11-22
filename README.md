@@ -34,21 +34,21 @@
 
 
 <p align="center">
-    <img style="padding-right:20px;" src="https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript,vuejs,react,django,python,postman,mysql,sqlite,postgres,&theme=dark" />
+    <img style="padding-right:20px;" src="https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript,vuejs,react,django,python,postman,mysql,postgres,&theme=dark" />
 </p>
 
 
 <hr />
 
+🔧 Tech Stack: <br>
+- Frontend: React.js, Vue.js
+- Backend: Django
+- Database: MySQL, PostgreSQL
 
-<!-- ### 🔥My Stats
 
-![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=10)
-[![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=10)] -->
+ ### 🔥My Stats
 
+![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=5)
+![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&langs_count=20&theme=cobalt2&border_radius=5)](https://github.com/nkurudavid/github-readme-stats)
 
-<!--
-<hr />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&langs_count=20&theme=cobalt2&border_radius=10)](https://github.com/nkurudavid/github-readme-stats)
--->
