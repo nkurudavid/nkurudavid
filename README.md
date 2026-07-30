@@ -7,7 +7,6 @@
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
      </a>
    </div>
-   <!-- <img src="https://komarev.com/ghpvc/?username=nkurudavid&style=flat-square&color=blue" alt=""/>-->
    
    <h1>
       Hey there
@@ -40,18 +39,9 @@
 
  ### 🔥My Stats
 <div align="center">
-  
-<!--![nkurudavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=nkurudavid&show_icons=true&theme=cobalt2&border_radius=25) -->
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=nkurudavid&theme=cobalt2&border_radius=25)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkurudavid&layout=compact&langs_count=20&theme=cobalt2&border_radius=25)
-<!-- [](https://github.com/nkurudavid/github-readme-stats) -->
 
 </div>
 <hr />
-
-### 🔧 Tech Stack: <br>
-- Frontend: React.js, Vue.js
-- Backend: Django
-- Database: MySQL, PostgreSQL
-
 
